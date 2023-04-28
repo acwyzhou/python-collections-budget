@@ -1,4 +1,5 @@
 from . import Expense
+import matplotlib.pyplot as plt
 
 # Class that extends list type
 class BudgetList():
