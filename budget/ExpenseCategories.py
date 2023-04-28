@@ -1,6 +1,8 @@
 from . import Expense
 import matplotlib.pyplot as plt
 
+ex = {}
+
 def main():
     expenses = Expense.Expenses()
     expenses.read_expenses('data/spending_data.csv')
@@ -9,4 +11,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-    expenses.categorize_for_loop()
+    
