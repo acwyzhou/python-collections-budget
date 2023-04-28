@@ -10,6 +10,5 @@ def main():
 if __name__ == "__main__":
     main()
 
-def expenses.categorize_for_loop():
-divided_set_comp=expenses.categorize_set_comprehension()
+
 
