@@ -9,3 +9,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+    expenses.categorize_for_loop()
