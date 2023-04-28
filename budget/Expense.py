@@ -50,6 +50,3 @@ class Expenses():
                     unnecessary_expenses2.add(i)
             
             return [necessary_expenses2, food_expenses2, unnecessary_expenses2]
-        
-    
-     
