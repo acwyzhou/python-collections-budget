@@ -1,8 +1,6 @@
 from . import Expense
 import matplotlib.pyplot as plt
 
-ex = {}
-
 def main():
     expenses = Expense.Expenses()
     expenses.read_expenses('data/spending_data.csv')
